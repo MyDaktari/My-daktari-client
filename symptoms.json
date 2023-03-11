@@ -1,0 +1,194 @@
+[
+	{
+		"name": "Brain, Nerves and Spinal cord",
+		"data": [
+			{
+				"id": 1,
+				"title": "Migraine",
+				"description": "I'm experiencing a severe, throbbing pain at the front or side of the head, nausea and vomitting",
+				"checked": false
+			},
+
+			{
+				"id": 2,
+				"title": "Headaches",
+				"description": "I'm experiencing a constant ache that affects both side of the head, as though a tight band is stretched around it",
+				"checked": false
+			},
+
+			{
+				"id": 3,
+				"title": "Dizziness",
+				"description": "I'm feeling lightheaded/off balance and surroundings are spinning",
+				"checked": false
+			},
+
+			{
+				"id": 4,
+				"title": "Chronic Pain",
+				"description": "I have a pain that is not going away for more than 2 weeks",
+				"checked": false
+			}
+		]
+	},
+	{
+		"name": "Stomach, Liver and GastroInternal tract",
+		"data": [
+			{
+				"id": 5,
+				"title": "Stomach / Abdominal Pain",
+				"description": "I'm experiencing a painful stomach and abdominal pains",
+				"checked": false
+			},
+
+			{
+				"id": 6,
+				"title": "Vomiting",
+				"description": "I am throwing up",
+				"checked": false
+			},
+
+			{
+				"id": 7,
+				"title": "Flactulance",
+				"description": "I am gossy",
+				"checked": false
+			},
+
+			{
+				"id": 8,
+				"title": "Constipation",
+				"description": "My poop is hard that it hurts to poop",
+				"checked": false
+			}
+		]
+	},
+	{
+		"name": "Muscle, Bone and Joints",
+		"data": [
+			{
+				"id": 9,
+				"title": "Back Problems",
+				"description": "I'm experiencing pain on my backbones",
+				"checked": false
+			},
+
+			{
+				"id": 10,
+				"title": "Knee Problem",
+				"description": "My knee hurt.  My knees have a cracking sound",
+				"checked": false
+			},
+
+			{
+				"id": 11,
+				"title": "Wrist, hand and finger",
+				"description": "My wrists and fingers are weak and painful",
+				"checked": false
+			},
+
+			{
+				"id": 12,
+				"title": "Neck Problems",
+				"description": "My Neck hurts",
+				"checked": false
+			}
+		]
+	},
+	{
+		"name": "Mouth",
+		"data": [
+			{
+				"id": 13,
+				"title": "Toothache",
+				"description": "I'm experiencing pain on my backbones",
+				"checked": false
+			},
+
+			{
+				"id": 14,
+				"title": "Mouth Ulcer",
+				"description": "My knee hurt.  My knees have a cracking sound",
+				"checked": false
+			},
+
+			{
+				"id": 15,
+				"title": "Dry Mouth",
+				"description": "My wrists and fingers are weak and painful",
+				"checked": false
+			},
+
+			{
+				"id": 16,
+				"title": "Cold Sore",
+				"description": "My Neck hurts",
+				"checked": false
+			}
+		]
+	},
+	{
+		"name": "Lung and Airway",
+		"data": [
+			{
+				"id": 17,
+				"title": "Cough",
+				"description": "I'm experiencing pain on my backbones",
+				"checked": false
+			},
+
+			{
+				"id": 18,
+				"title": "Difficulty Breathing",
+				"description": "My knee hurt.  My knees have a cracking sound",
+				"checked": false
+			},
+
+			{
+				"id": 19,
+				"title": "Asmatic",
+				"description": "My wrists and fingers are weak and painful",
+				"checked": false
+			},
+
+			{
+				"id": 20,
+				"title": "Shortness of Breathe",
+				"description": "My Neck hurts",
+				"checked": false
+			}
+		]
+	},
+	{
+		"name": "Ear,Nose and Throat",
+		"data": [
+			{
+				"id": 21,
+				"title": "Earache",
+				"description": "I'm experiencing pain on my backbones",
+				"checked": false
+			},
+
+			{
+				"id": 22,
+				"title": "Nosebleeds",
+				"description": "My knee hurt.  My knees have a cracking sound",
+				"checked": false
+			},
+
+			{
+				"id": 23,
+				"title": "Sore Throat",
+				"description": "My wrists and fingers are weak and painful",
+				"checked": false
+			},
+
+			{
+				"id": 24,
+				"title": "Hearing Loss",
+				"description": "My Neck hurts",
+				"checked": false
+			}
+		]
+	}
+]
